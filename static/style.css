@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to right, #051937, #003e63, #006783, #00908f, #00b988);
+}
+.display-1
+{
+    font-size: 20vh;
+    margin-top: 40vh;
+    text-align: center;
+    color: white;
+}
